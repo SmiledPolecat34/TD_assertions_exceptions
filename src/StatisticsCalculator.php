@@ -42,3 +42,9 @@ class StatisticsCalculator
         }
     }
 }
+
+$essai = new StatisticsCalculator();
+echo "La moyenne est " . $essai->mean([1, 2, 3, 4, 5]) . "\n";
+echo "La médiane est " . $essai->median([10, 2, 3, 4, 5]) . "\n";
+echo "15";
+?>
