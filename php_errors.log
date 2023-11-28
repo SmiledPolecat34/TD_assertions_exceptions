@@ -1,0 +1,5 @@
+[28-Nov-2023 10:05:50 UTC] PHP Deprecated:  Creation of dynamic property ContactManager::$contacts is deprecated in C:\wamp64\www\Php\TD_assertions_exceptions\src\ContactManager.php on line 7
+[28-Nov-2023 10:05:50 UTC] PHP Fatal error:  Uncaught Error: Class "Contact" not found in C:\wamp64\www\Php\TD_assertions_exceptions\src\ContactManager.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Php\TD_assertions_exceptions\src\ContactManager.php on line 30
